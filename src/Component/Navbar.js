@@ -33,7 +33,7 @@ const Navbar = () => {
                 <a className="nav-link active" aria-current="page" href="#"><Home /></a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="www.linkedin.com/in/tanisha-mahajan-1108s" target='_blank'><Linkedin /></a>
+                <a className="nav-link" href="https://www.linkedin.com/in/tanisha-mahajan-1108s/" target='_blank'><Linkedin /></a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href='https://github.com/Tanisha-Mahajan' target='_blank'><Github /></a>
@@ -57,12 +57,10 @@ const Navbar = () => {
         <div className="info">
           <h2>Hello Everyone!</h2>
             <p className='typing'>My name is Tanisha Mahajan <span>A Frontend Developer</span></p> 
+            <p className='fw-bold text-light'>Aspiring and motivated frontend developer eager to bring creative designs to life in the digital realm. With a solid foundation in HTML, CSS, and JavaScript, I am committed to transforming concepts into captivating and user-centric web experiences. My passion for clean and responsive design, coupled with a hunger for continuous learning, drives me to stay at the forefront of evolving web technologies. Through my portfolio, you'll discover a collection of projects that showcase my ability to craft intuitive user interfaces, ensure seamless cross-device compatibility, and contribute to the overall enhancement of user engagement. I am excited to embark on this journey, collaborating with teams to create visually stunning and functionally exceptional websites that leave a lasting impact. Join me as I embark on this adventure of turning code into captivating artistry.</p>
             <a href={Cv} target='_blank' className='mx-3'>Check My Cv</a> 
             <a href='https://www.linkedin.com/in/tanisha-mahajan-1108s/' target='_blank'>Linkedin</a>
         </div>
-        {/* <div className="profile">
-          <img src={Profile} alt="" />
-        </div> */}
       </div>
 
 
@@ -72,7 +70,7 @@ const Navbar = () => {
         <div class="card">
           <img src={Logo} class="card-img-top" alt="..." />
           <a class="card-body text-decoration-none" href=''>
-            <p class="card-text">The Disney+ Hotstar clone project aims to replicate the popular streaming platform <br /> More info on Github </p>
+            <p class="card-text">The Disney+ Hotstar clone project aims to replicate the popular streaming platform </p>
           </a>
         </div>
         <div class="card">
@@ -90,7 +88,7 @@ const Navbar = () => {
         <div class="card">
           <img src={InProgress} class="card-img-top" alt="..." />
           <div class="card-body">
-            <p class="card-text">This project is under process. Hope to update soon</p>
+            <p class="card-text">More projects are under process. Hope to update soon</p>
           </div>
         </div>
       </div>
@@ -150,7 +148,7 @@ const Navbar = () => {
           <div class="card-body">
             <p class="card-text">
               Proficiency <br />
-              <span className='text-warning'><Star /><Star /><Star /><Star /></span>
+              <span className='text-warning'><Star /><Star /><Star /></span>
             </p>
           </div>
         </div>
