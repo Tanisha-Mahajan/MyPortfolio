@@ -1,7 +1,6 @@
 import { Github, Home, Linkedin, Star} from 'lucide-react'
 import React from 'react'
 import './Navbar.css'
-import Profile from '../image/profile.jpg'
 import html from '../image/html.png'
 import css from '../image/css.png'
 import javascript from '../image/javascript.png'
