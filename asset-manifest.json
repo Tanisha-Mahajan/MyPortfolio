@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.47d6f813.css",
-    "main.js": "/MyPortfolio/static/js/main.af83738b.js",
-    "static/js/787.279f394e.chunk.js": "/MyPortfolio/static/js/787.279f394e.chunk.js",
-    "static/media/Tanisha_Mahajan_CV.pdf": "/MyPortfolio/static/media/Tanisha_Mahajan_CV.6ae1894caf07d1afa784.pdf",
-    "static/media/backgroundImg.jpg": "/MyPortfolio/static/media/backgroundImg.1087da06f0b393974c3f.jpg",
-    "static/media/html.png": "/MyPortfolio/static/media/html.a922b77fbc1c77e6a4fe.png",
-    "static/media/css.png": "/MyPortfolio/static/media/css.74ff0b5fd86f9eadddd3.png",
-    "static/media/javascript.png": "/MyPortfolio/static/media/javascript.166865dacb77d214f485.png",
-    "static/media/TicTacToe.png": "/MyPortfolio/static/media/TicTacToe.7cd49f8a9073190795d7.png",
-    "static/media/react.png": "/MyPortfolio/static/media/react.c39fe1cf1dc6559c7db6.png",
-    "static/media/inProgress.png": "/MyPortfolio/static/media/inProgress.0c55c37ee73a6232d94d.png",
-    "static/media/sass.png": "/MyPortfolio/static/media/sass.051888ab516950ed48cb.png",
-    "static/media/logo-d-plus.svg": "/MyPortfolio/static/media/logo-d-plus.671d39b0bcd09f50cd85e67d20c0753d.svg",
-    "index.html": "/MyPortfolio/index.html",
-    "main.47d6f813.css.map": "/MyPortfolio/static/css/main.47d6f813.css.map",
-    "main.af83738b.js.map": "/MyPortfolio/static/js/main.af83738b.js.map",
-    "787.279f394e.chunk.js.map": "/MyPortfolio/static/js/787.279f394e.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.d16d5697.css",
+    "main.js": "/portfolio/static/js/main.6ff0877b.js",
+    "static/js/787.279f394e.chunk.js": "/portfolio/static/js/787.279f394e.chunk.js",
+    "static/media/Tanisha_Mahajan_CV.pdf": "/portfolio/static/media/Tanisha_Mahajan_CV.6ae1894caf07d1afa784.pdf",
+    "static/media/backgroundImg.jpg": "/portfolio/static/media/backgroundImg.1087da06f0b393974c3f.jpg",
+    "static/media/html.png": "/portfolio/static/media/html.a922b77fbc1c77e6a4fe.png",
+    "static/media/css.png": "/portfolio/static/media/css.74ff0b5fd86f9eadddd3.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.166865dacb77d214f485.png",
+    "static/media/TicTacToe.png": "/portfolio/static/media/TicTacToe.7cd49f8a9073190795d7.png",
+    "static/media/react.png": "/portfolio/static/media/react.c39fe1cf1dc6559c7db6.png",
+    "static/media/inProgress.png": "/portfolio/static/media/inProgress.0c55c37ee73a6232d94d.png",
+    "static/media/sass.png": "/portfolio/static/media/sass.051888ab516950ed48cb.png",
+    "static/media/logo-d-plus.svg": "/portfolio/static/media/logo-d-plus.671d39b0bcd09f50cd85e67d20c0753d.svg",
+    "index.html": "/portfolio/index.html",
+    "main.d16d5697.css.map": "/portfolio/static/css/main.d16d5697.css.map",
+    "main.6ff0877b.js.map": "/portfolio/static/js/main.6ff0877b.js.map",
+    "787.279f394e.chunk.js.map": "/portfolio/static/js/787.279f394e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47d6f813.css",
-    "static/js/main.af83738b.js"
+    "static/css/main.d16d5697.css",
+    "static/js/main.6ff0877b.js"
   ]
 }
