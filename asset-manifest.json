@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Tanisha-Mahajan/portfolio/static/css/main.8ea8be0d.css",
-    "main.js": "/Tanisha-Mahajan/portfolio/static/js/main.5e1f716f.js",
-    "static/js/787.279f394e.chunk.js": "/Tanisha-Mahajan/portfolio/static/js/787.279f394e.chunk.js",
-    "static/media/Tanisha_Mahajan_CV.pdf": "/Tanisha-Mahajan/portfolio/static/media/Tanisha_Mahajan_CV.6ae1894caf07d1afa784.pdf",
-    "static/media/backgroundImg.jpg": "/Tanisha-Mahajan/portfolio/static/media/backgroundImg.1087da06f0b393974c3f.jpg",
-    "static/media/html.png": "/Tanisha-Mahajan/portfolio/static/media/html.a922b77fbc1c77e6a4fe.png",
-    "static/media/css.png": "/Tanisha-Mahajan/portfolio/static/media/css.74ff0b5fd86f9eadddd3.png",
-    "static/media/javascript.png": "/Tanisha-Mahajan/portfolio/static/media/javascript.166865dacb77d214f485.png",
-    "static/media/TicTacToe.png": "/Tanisha-Mahajan/portfolio/static/media/TicTacToe.7cd49f8a9073190795d7.png",
-    "static/media/react.png": "/Tanisha-Mahajan/portfolio/static/media/react.c39fe1cf1dc6559c7db6.png",
-    "static/media/inProgress.png": "/Tanisha-Mahajan/portfolio/static/media/inProgress.0c55c37ee73a6232d94d.png",
-    "static/media/sass.png": "/Tanisha-Mahajan/portfolio/static/media/sass.051888ab516950ed48cb.png",
-    "static/media/logo-d-plus.svg": "/Tanisha-Mahajan/portfolio/static/media/logo-d-plus.671d39b0bcd09f50cd85e67d20c0753d.svg",
-    "index.html": "/Tanisha-Mahajan/portfolio/index.html",
-    "main.8ea8be0d.css.map": "/Tanisha-Mahajan/portfolio/static/css/main.8ea8be0d.css.map",
-    "main.5e1f716f.js.map": "/Tanisha-Mahajan/portfolio/static/js/main.5e1f716f.js.map",
-    "787.279f394e.chunk.js.map": "/Tanisha-Mahajan/portfolio/static/js/787.279f394e.chunk.js.map"
+    "main.css": "/MyPortfolio/static/css/main.09aa5474.css",
+    "main.js": "/MyPortfolio/static/js/main.3927201f.js",
+    "static/js/787.279f394e.chunk.js": "/MyPortfolio/static/js/787.279f394e.chunk.js",
+    "static/media/Tanisha_Mahajan_CV.pdf": "/MyPortfolio/static/media/Tanisha_Mahajan_CV.6ae1894caf07d1afa784.pdf",
+    "static/media/backgroundImg.jpg": "/MyPortfolio/static/media/backgroundImg.1087da06f0b393974c3f.jpg",
+    "static/media/html.png": "/MyPortfolio/static/media/html.a922b77fbc1c77e6a4fe.png",
+    "static/media/css.png": "/MyPortfolio/static/media/css.74ff0b5fd86f9eadddd3.png",
+    "static/media/javascript.png": "/MyPortfolio/static/media/javascript.166865dacb77d214f485.png",
+    "static/media/TicTacToe.png": "/MyPortfolio/static/media/TicTacToe.7cd49f8a9073190795d7.png",
+    "static/media/react.png": "/MyPortfolio/static/media/react.c39fe1cf1dc6559c7db6.png",
+    "static/media/inProgress.png": "/MyPortfolio/static/media/inProgress.0c55c37ee73a6232d94d.png",
+    "static/media/sass.png": "/MyPortfolio/static/media/sass.051888ab516950ed48cb.png",
+    "static/media/logo-d-plus.svg": "/MyPortfolio/static/media/logo-d-plus.671d39b0bcd09f50cd85e67d20c0753d.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.09aa5474.css.map": "/MyPortfolio/static/css/main.09aa5474.css.map",
+    "main.3927201f.js.map": "/MyPortfolio/static/js/main.3927201f.js.map",
+    "787.279f394e.chunk.js.map": "/MyPortfolio/static/js/787.279f394e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ea8be0d.css",
-    "static/js/main.5e1f716f.js"
+    "static/css/main.09aa5474.css",
+    "static/js/main.3927201f.js"
   ]
 }
