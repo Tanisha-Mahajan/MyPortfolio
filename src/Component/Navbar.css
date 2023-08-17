@@ -26,7 +26,7 @@
 .hero-section .info .typing{
     font-weight: 500;
     font-size: 1.2em;
-    width: 45ch;
+    width: 42.5ch;
     border-right: 3px solid;
     overflow: hidden;
     animation: type 2s steps(22) ;
@@ -42,6 +42,7 @@
 .hero-section .info .description{
     margin: 0 auto;
     margin-bottom: 30px;
+    text-align: justify;
 }
 @media only screen and (max-width: 768px){
     .hero-section .info .description{
