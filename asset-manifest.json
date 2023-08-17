@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.09aa5474.css",
-    "main.js": "/MyPortfolio/static/js/main.3927201f.js",
+    "main.css": "/MyPortfolio/static/css/main.47d6f813.css",
+    "main.js": "/MyPortfolio/static/js/main.af83738b.js",
     "static/js/787.279f394e.chunk.js": "/MyPortfolio/static/js/787.279f394e.chunk.js",
     "static/media/Tanisha_Mahajan_CV.pdf": "/MyPortfolio/static/media/Tanisha_Mahajan_CV.6ae1894caf07d1afa784.pdf",
     "static/media/backgroundImg.jpg": "/MyPortfolio/static/media/backgroundImg.1087da06f0b393974c3f.jpg",
@@ -14,12 +14,12 @@
     "static/media/sass.png": "/MyPortfolio/static/media/sass.051888ab516950ed48cb.png",
     "static/media/logo-d-plus.svg": "/MyPortfolio/static/media/logo-d-plus.671d39b0bcd09f50cd85e67d20c0753d.svg",
     "index.html": "/MyPortfolio/index.html",
-    "main.09aa5474.css.map": "/MyPortfolio/static/css/main.09aa5474.css.map",
-    "main.3927201f.js.map": "/MyPortfolio/static/js/main.3927201f.js.map",
+    "main.47d6f813.css.map": "/MyPortfolio/static/css/main.47d6f813.css.map",
+    "main.af83738b.js.map": "/MyPortfolio/static/js/main.af83738b.js.map",
     "787.279f394e.chunk.js.map": "/MyPortfolio/static/js/787.279f394e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09aa5474.css",
-    "static/js/main.3927201f.js"
+    "static/css/main.47d6f813.css",
+    "static/js/main.af83738b.js"
   ]
 }
