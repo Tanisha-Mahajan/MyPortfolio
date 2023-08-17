@@ -39,8 +39,15 @@
         width: 0;
     }    
 }
-
-
+.hero-section .info .description{
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+@media only screen and (max-width: 768px){
+    .hero-section .info .description{
+        width: 80%;
+    }
+}
 .hero-section .info a{
     text-decoration: none;
     border: 1px solid #fff; 
